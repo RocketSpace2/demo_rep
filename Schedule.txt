@@ -1,3 +1,4 @@
+Title: School schedule
 Monday		work		all day
 Thuesday	work		half of the day
 Wednesday	work		all day

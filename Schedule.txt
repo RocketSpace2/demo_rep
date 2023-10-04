@@ -6,3 +6,4 @@ Thursday	work		half of the day
 Friday		free day	don't work
 Saturday	free day	don't work
 Sunday		free day	don't work
+Title: School schedule

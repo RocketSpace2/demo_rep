@@ -1,7 +1,7 @@
-Monday		work		
-Thuesday	work		
-Wednesday	work		
-Thursday	work		
+Monday		work		all day
+Thuesday	work		half of the day
+Wednesday	work		all day
+Thursday	work		half of the day
 Friday		free day	don't work
 Saturday	free day	don't work
 Sunday		free day	don't work

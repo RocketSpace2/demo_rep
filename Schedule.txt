@@ -1,8 +1,8 @@
-Monday		work
-Thuesday	work
-Wednesday	work
-Thursday	work
-Friday		free day
-Saturday	free day
-Sunday		free day
+-Monday		work		all day
+-Thuesday	work		half of the day
+-Wednesday	work		all day
+-Thursday	work		half of the day
+-Friday		free day
+-Saturday	free day
+-Sunday		free day
 

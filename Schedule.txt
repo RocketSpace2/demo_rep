@@ -1,9 +1,11 @@
 Title: School schedule
-Monday		work		all day
-Thuesday	work		half of the day
-Wednesday	work		all day
-Thursday	work		half of the day
+Monday		work		all day			Alex
+Thuesday	work		half of the day		Bob
+Wednesday	work		all day			Alex
+Thursday	work		half of the day		Alex
 Friday		free day	don't work
 Saturday	free day	don't work
 Sunday		free day	don't work
 Title: School schedule
+
+Now with tag.

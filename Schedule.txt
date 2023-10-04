@@ -1,11 +1,8 @@
-Monday	work
+Monday		work
 Thuesday	work
 Wednesday	work
 Thursday	work
 Friday		free day
 Saturday	free day
 Sunday		free day
-sdf
-df
-sdf
-sdf
+
